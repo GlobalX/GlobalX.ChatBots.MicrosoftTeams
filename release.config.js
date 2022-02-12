@@ -1,4 +1,5 @@
 module.exports = {
+    branches: ["main"],
     verifyConditions: [
         // Verifies the conditions for the plugins used below
         // For example verifying a GITHUB_TOKEN environment variable has been provided
